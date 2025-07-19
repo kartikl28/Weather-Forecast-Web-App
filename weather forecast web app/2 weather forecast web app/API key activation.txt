@@ -1,0 +1,11 @@
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Denver&appid=744a19f57119c03c60932012bb98e833
+
+
+
+
+
+
+api key =744a19f57119c03c60932012bb98e833
